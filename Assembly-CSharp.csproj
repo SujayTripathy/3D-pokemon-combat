@@ -63,7 +63,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\LucarioBehavior.cs" />
+    <Compile Include="Assets\Pokeball.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\Trainer.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/Lucario/3D-pokemon-combat/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
